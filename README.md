@@ -1,4 +1,5 @@
-# Sudoku Solver with String Output
+# Sudoku Generator with String Output
+### Uses an existing sudoku program
 ##### Install sudoku npm module
 * Must have npm file manager already installed.
 * Find the [sudoku npm module](https://www.npmjs.com/package/sudoku) instructions here.
