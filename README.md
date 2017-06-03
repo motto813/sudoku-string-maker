@@ -1,13 +1,13 @@
 # Sudoku Generator with String Output
-### Uses an existing sudoku program
+### Uses an existing sudoku program to generate and output sudoku puzzles
 ##### Install sudoku npm module
 * Must have npm file manager already installed.
 * Find the [sudoku npm module](https://www.npmjs.com/package/sudoku) instructions here.
-* Run the following command from the terminal.
+* Run the following command from the terminal to install:
     
     npm install sudoku
 ##### To view puzzles and solutions as strings
-* Run sudoku_string_maker.js from terminal
+* Run sudoku_string_maker.js from terminal:
 
     node sudoku_string_maker.js
 * Strings will output in terminal representing one long string of unsolved and solved puzzles.
