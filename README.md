@@ -13,4 +13,4 @@
 * Unsolved string has dashes (-) in place of unsolved spaces.
 ##### To add more features
 * Modify the sudoku_string_maker.js script
-* Send me an email at [hammerschmidtpaul@gmail.com](hammerschmidtpaul@gmail.com) to be added as a contributor.
+* Send me an email at [hammerschmidtpaul@gmail.com](hammerschmidtpaul@gmail.com) to be added as a contributor or to report bugs.
